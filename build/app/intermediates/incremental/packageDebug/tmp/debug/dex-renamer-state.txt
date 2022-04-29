@@ -1,0 +1,4 @@
+#Thu Apr 28 03:01:47 TRT 2022
+base.0=D\:\\kamer2\\loginyapildi2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
